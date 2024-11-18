@@ -25,11 +25,15 @@
 //------------------------------------------------------------------------------------
 #define MAX_BRUSH_SIZE 35
 
+// To do:
+// - Back button
+//      -> storing mouse positions in a Data Structure 
+
 int main(void)
 {
     // Initialization
     //--------------------------------------------------------------------------------------
-    InitWindow(0, 0, "Complex Graph");
+    InitWindow(0, 0, "Draw");
 
     SetTargetFPS(120);               // Set our game to run at 60 frames-per-second
     //--------------------------------------------------------------------------------------
