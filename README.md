@@ -1,7 +1,9 @@
-<div align="center">
-    <img  src=".gitassets/logo.png"> 
-    <h1 style="margin-top: 0"> Draw </h1>
-    <p>lightweight android drawing app</p>
-    <hr>
-    <img src=".gitassets/Screenrecorder.gif" >
+<div style="display: flex;">
+    <img  src=".gitassets/logo.png" style="float: left"> 
+    <div>
+        <h1> Draw </h1>
+        <p>lightweight android drawing app</p>
+    </div>
 </div>
+<hr>
+<img src=".gitassets/Screenrecorder.gif"  align="right">
