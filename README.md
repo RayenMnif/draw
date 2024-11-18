@@ -1,6 +1,6 @@
-<div style="display: flex;">
-    <img  src=".gitassets/logo.png" align="left" style="float: left"> 
-    <div>
+<div>
+    <img  src=".gitassets/logo.png" align="left" 
+    <div align="right">
         <h1> Draw </h1>
         <p>lightweight android drawing app</p>
     </div>
